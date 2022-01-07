@@ -1,2 +1,2 @@
-# Jordan Hudgens React Portfolio Application
+# Charlie Lovejoy's React Portfolio Application
 

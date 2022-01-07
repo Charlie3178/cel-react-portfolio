@@ -1,5 +1,5 @@
 {
-  "name": "jordan-hudgens-react-portfolio",
+  "name": "charlies-react-portfolio",
   "version": "1.0.0",
   "description": "Personal portfolio app built in React",
   "scripts": {
@@ -25,7 +25,7 @@
     "sass",
     "css module"
   ],
-  "author": "Jordan Hudgens",
+  "author": "Chalie Lovejoy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bottega-code-school/js-builder/issues"
