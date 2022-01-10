@@ -1,3 +1,3 @@
 git add .
-git commit -m "Initial Modal behavior Added"
+git commit -m "Pre-Heroku Commit"
 git push origin main
