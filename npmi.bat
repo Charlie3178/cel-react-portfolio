@@ -28,3 +28,10 @@ rem npm i webpack-dev-middleware --save
 rem npm i webpack-dev-server --save
 rem npm i webpack-hot-middleware --save
 rem npm i webpack-merge --save
+npm i draft-js --save
+npm i draftjs-to-html --save
+npm i html-webpack-plugin --save
+npm i react-draft-wysiwyg --save
+npm i react-html-parser --save
+npm i react-truncate --save
+npm i striptags --save
